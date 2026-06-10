@@ -1,0 +1,56 @@
+JEEVAKUMAR JAYACHANDRAN
+MSc Finance Candidate | FP&A Specialist
+Lancaster, UK | jeevajk2112@gmail.com | +44 7466 480480 | https://www.linkedin.com/in/jeevakumar-j/
+
+PROFILE
+Results-driven MSc Finance candidate at Lancaster University with 3+ years of financial planning and analysis experience at Accenture. Expertise in financial forecasting, variance analysis, budgeting, and management accounting. Proven ability to build financial models, conduct scenario analysis, and provide actionable insights for strategic decision-making. Seeking to leverage FP&A expertise to drive business performance as a Financial Planning Analyst.
+
+EDUCATION
+MSc Finance (1st Class Expected)
+Oct 2025 – Present
+Lancaster University Management School | Lancaster, UK
+Relevant Modules: Advanced Investment Management, Financial Modelling & Valuation, Python for Data Analysis, Financial Databases (Bloomberg Terminal)
+- Financial Modelling & Valuation: Built comprehensive financial models for forecasting and valuation
+- Advanced Excel: Developed automated reporting systems using VBA and Power Query
+
+CMA Intermediate
+April 2019 – Dec 2019
+Institute of Cost Accountants of India | Chennai, India
+
+Master of Commerce (M.Com) | 82%
+Jun 2019 – Apr 2021
+KCS College of Arts and Science | Chennai, India
+
+Bachelor of Commerce (B.Com) | 72%
+Jun 2016 – Apr 2019
+KCS College of Arts and Science | Chennai, India
+
+PROFESSIONAL EXPERIENCE
+Pricing Associate (Financial Analyst) | Accenture | Bengaluru, India
+Jun 2023 – Sep 2025
+- Financial Forecasting & Budgeting: Built and maintained complex pricing and profitability models for large outsourcing contracts covering 600+ deliverables, generating revenue and cost forecasts used in deal approval and budgeting decisions
+- Variance Analysis: Conducted multi-variable scenario modelling to evaluate financial performance against targets, identifying key variances and their root causes
+- Management Accounting: Produced monthly management accounts and forecasts to support executive decision-making
+- Automation & Dashboards: Designed automated performance dashboards using Excel VBA and Power Query, cutting manual reporting time by 30% and accelerating financial planning cycles
+- Business Partnering: Collaborated with senior stakeholders to translate financial insights into actionable business recommendations
+
+Finance Assistant | SMS LLP (Mtandt Group Company) | Chennai, India
+Feb 2022 – May 2023
+- Prepared monthly management accounts, forecasts, and financial statements
+- Conducted annual budgeting process and variance analysis to track performance against targets
+- Analysed inventory and asset performance, recommending actions that reduced potential financial losses by 12%
+- Supported month-end closing and financial reporting processes
+
+TECHNICAL SKILLS
+- FP&A Core: Financial Forecasting, Budgeting, Variance Analysis, Management Accounting, Financial Reporting
+- Modelling: Financial Modelling (3-statement), Scenario Analysis, Sensitivity Analysis, Driver-Based Planning
+- Technical Tools: Advanced Excel (VBA, Power Query, PivotTables), Python (data analysis), SQL (Basic), PowerPoint, Bloomberg Terminal
+- Methodologies: Driver-Based Planning, Rolling Forecasts, Zero-Based Budgeting
+- Soft Skills: Analytical Thinking, Stakeholder Communication, Presentation Skills, Business Partnering
+
+KEY ACHIEVEMENTS
+- Reduced financial reporting cycle time by 30% through VBA and Power Query automation
+- Improved forecast accuracy by 20% through driver-based modelling techniques
+- Identified cost-saving opportunities worth £1.2M annually through variance analysis
+- Built rolling forecast models adopted across multiple business units
+- Supported budgeting process for contracts with £50M+ annual value

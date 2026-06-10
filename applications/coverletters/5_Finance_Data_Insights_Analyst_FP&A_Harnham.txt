@@ -1,0 +1,34 @@
+Jeevakumar Jayachandran
+Lancaster, UK
+jeevajk2112@gmail.com
++44 7466 480480
+10 June 2026
+
+Hiring Manager
+Harnham
+Stratford-Upon-Avon, England, United Kingdom
+
+Dear Hiring Manager,
+
+I am excited to apply for the Finance Data & Insights Analyst (FP&A) position at Harnham. As an MSc Finance candidate at Lancaster University with 3+ years of experience in financial analysis, automation, and data-driven insights generation at Accenture, I possess the unique combination of financial expertise and analytical skills that aligns perfectly with your requirements for this role.
+
+In my current role as a Pricing Associate (Financial Analyst) at Accenture, I have developed strong capabilities in transforming complex financial data into actionable business insights—exactly what Harnham seeks in a Finance Data & Insights Analyst. My relevant experience includes:
+
+- Financial Data Analysis at Scale: Analysed large pricing datasets covering 600+ deliverables to identify trends, performance gaps, and margin improvement opportunities, utilizing both Excel and Python for data manipulation and analysis
+- Automation & Business Intelligence: Designed and implemented automated financial performance dashboards using Excel VBA and Power Query that reduced manual reporting time by 30%, enabling the finance team to shift from data preparation to insight generation
+- Data Visualization & Storytelling: Created clear, compelling visual representations of financial performance using advanced Excel charts, conditional formatting, and data storytelling techniques to communicate complex information to non-financial stakeholders
+- Scenario Planning & Sensitivity Analysis: Built flexible financial models with robust scenario and sensitivity analysis capabilities to evaluate different business outcomes under varying assumptions
+- Financial Reporting Excellence: Produced management-ready financial reports and presentations that translated complex numerical data into clear business insights and actionable recommendations
+- Self-Service Analytics Enablement: Developed tools and reports that allowed business partners to access financial insights independently, reducing reliance on the finance team for routine inquiries
+
+My academic background at Lancaster University has further strengthened my data analytics capabilities. Through the Python for Data Analysis module, I have gained hands-on experience with Pandas, NumPy, and Matplotlib for data manipulation, statistical analysis, and visualization. My experience with Bloomberg Terminal has provided me with proficiency in accessing and analyzing real-time financial data, market information, and company fundamentals.
+
+What particularly appeals to me about Harnham is your reputation as a leader in data and analytics recruitment, combined with the opportunity to apply my financial analysis expertise in a data-focused FP&A role. I am impressed by your focus on delivering high-quality analytics talent and believe my background in financial data analysis, automation, and insight generation aligns well with your mission.
+
+I am confident that my proven ability to analyze complex financial data, automate reporting processes, create insightful visualizations, and communicate financial findings effectively will allow me to make an immediate and meaningful contribution to your team. I would welcome the opportunity to discuss how my experience in financial data analysis, automation (VBA/Power Query), and data-driven storytelling can support Harnham's objectives in delivering exceptional FP&A analytics talent.
+
+Thank you for considering my application. I look forward to the possibility of contributing to your team's success in connecting top analytics talent with leading organizations.
+
+Yours sincerely,
+
+Jeevakumar Jayachandran

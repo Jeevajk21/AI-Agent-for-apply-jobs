@@ -1,0 +1,57 @@
+JEEVAKUMAR JAYACHANDRAN
+MSc Finance Candidate | Pricing Strategy Expert
+Lancaster, UK | jeevajk2112@gmail.com | +44 7466 480480 | https://www.linkedin.com/in/jeevakumar-j/
+
+PROFILE
+Strategic MSc Finance candidate at Lancaster University with 3+ years of specialized pricing analysis experience at Accenture. Expertise in commercial deal structuring, profitability modelling, price optimization, and financial modelling. Proven ability to build complex pricing models, conduct scenario analysis, and develop data-driven pricing strategies that maximize profitability. Seeking to leverage pricing expertise to drive revenue growth and margin improvement as a Principal Pricing Analyst.
+
+EDUCATION
+MSc Finance (1st Class Expected)
+Oct 2025 – Present
+Lancaster University Management School | Lancaster, UK
+Relevant Modules: Advanced Investment Management, Financial Modelling & Valuation, Python for Data Analysis, Financial Databases (Bloomberg Terminal)
+- Pricing Strategy: Applied game theory and price elasticity concepts to commercial pricing decisions
+- Financial Modelling: Built DCF and scenario-based models for pricing impact analysis
+
+CMA Intermediate
+April 2019 – Dec 2019
+Institute of Cost Accountants of India | Chennai, India
+
+Master of Commerce (M.Com) | 82%
+Jun 2019 – Apr 2021
+KCS College of Arts and Science | Chennai, India
+
+Bachelor of Commerce (B.Com) | 72%
+Jun 2016 – Apr 2019
+KCS College of Arts and Science | Chennai, India
+
+PROFESSIONAL EXPERIENCE
+Pricing Associate (Financial Analyst) | Accenture | Bengaluru, India
+Jun 2023 – Sep 2025
+- Commercial Pricing Strategy: Built and maintained complex pricing models for large outsourcing contracts covering 600+ deliverables, optimizing price structures to maximize long-term profitability
+- Profitability Modelling: Developed detailed profitability models that analyzed price-volume tradeoffs, discount structures, and cost-to-serve implications
+- Scenario & Sensitivity Analysis: Conducted multi-variable scenario modelling to evaluate pricing strategies under different market conditions, competitive landscapes, and cost fluctuations
+- Commercial Decision Support: Partnered with senior Sales and Finance leadership to evaluate deal economics, structure competitive bidding strategies, and maximize contract value
+- Automation & Analytics: Designed automated pricing performance dashboards using Excel VBA, reducing manual analysis time by 35% and enabling real-time pricing insights
+- Price Optimization: Utilized statistical analysis and Excel Solver to identify optimal price points that balanced volume and margin objectives
+
+Finance Assistant | SMS LLP (Mtandt Group Company) | Chennai, India
+Feb 2022 – May 2023
+- Conducted pricing analysis for product and service offerings
+- Analysed price sensitivity and elasticity of demand for key products
+- Supported pricing strategy development through cost-plus and market-based approaches
+- Performed competitive pricing analysis and benchmarking
+
+TECHNICAL SKILLS
+- Pricing Strategy: Price Elasticity Analysis, Conjoint Analysis, Game Theory Applications, Price Optimization
+- Financial Modelling: Profitability Modelling, Break-even Analysis, Contribution Margin Analysis, Price-Volume-Mix (PVM) Analysis
+- Technical Tools: Advanced Excel (VBA, Solver, Data Tables), Python (statistical analysis), SQL (Basic), PowerPoint, Bloomberg Terminal
+- Analytics: Statistical Analysis, Regression Analysis, Trend Analysis, Variance Analysis
+- Soft Skills: Strategic Thinking, Commercial Acumen, Negotiation Support, Stakeholder Management
+
+KEY ACHIEVEMENTS
+- Improved contract profitability by 8-12% through strategic pricing adjustments and discount optimization
+- Reduced manual pricing analysis time by 35% through VBA automation and dashboard development
+- Identified £2.3M in additional annual revenue opportunities through price elasticity analysis
+- Developed pricing frameworks adopted across multiple client engagements
+- Supported pricing decisions for contracts with total contract value exceeding £100M

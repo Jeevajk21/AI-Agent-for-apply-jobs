@@ -1,0 +1,60 @@
+JEEVAKUMAR JAYACHANDRAN
+MSc Finance Candidate | Pricing & Discounts Analytics Specialist
+Lancaster, UK | jeevajk2112@gmail.com | +44 7466 480480 | https://www.linkedin.com/in/jeevakumar-j/
+
+PROFILE
+Analytical MSc Finance candidate at Lancaster University with 3+ years of pricing and discounts analysis experience at Accenture. Expertise in pricing strategy, discount optimization, promotional analytics, and profitability modelling. Proven ability to build pricing models, analyze discount effectiveness, and develop data-driven pricing and discount strategies that maximize revenue and customer lifetime value. Seeking to leverage pricing and discounts expertise to drive profitable growth as a Pricing & Discounts Analyst.
+
+EDUCATION
+MSc Finance (1st Class Expected)
+Oct 2025 – Present
+Lancaster University Management School | Lancaster, UK
+Relevant Modules: Advanced Investment Management, Financial Modelling & Valuation, Python for Data Analysis, Financial Databases (Bloomberg Terminal)
+- Pricing Strategy: Applied price elasticity, promotional effectiveness, and customer segmentation analysis to pricing decisions
+- Financial Modelling: Built promotional ROI models and discount impact analysis frameworks
+
+CMA Intermediate
+April 2019 – Dec 2019
+Institute of Cost Accountants of India | Chennai, India
+
+Master of Commerce (M.Com) | 82%
+Jun 2019 – Apr 2021
+KCS College of Arts and Science | Chennai, India
+
+Bachelor of Commerce (B.Com) | 72%
+Jun 2016 – Apr 2019
+KCS College of Arts and Science | Chennai, India
+
+PROFESSIONAL EXPERIENCE
+Pricing Associate (Financial Analyst) | Accenture | Bengaluru, India
+Jun 2023 – Sep 2025
+- Pricing Strategy: Built and maintained complex pricing models for large outsourcing contracts covering 600+ deliverables, including base pricing, discount structures, and promotional pricing
+- Discount Analytics: Analysed the effectiveness of various discount types (volume discounts, early payment discounts, promotional discounts) on profitability and customer behavior
+- Promotional Modelling: Developed ROI models to evaluate the effectiveness of marketing promotions and pricing campaigns
+- Price Elasticity Analysis: Conducted statistical analysis to determine optimal discount levels that maximize revenue and profit
+- Commercial Decision Support: Partnered with senior stakeholders to evaluate pricing and discount strategies, structure competitive offers, and maximize long-term profitability
+- Automation & Insights: Designed automated pricing and discount performance dashboards using Excel VBA, reducing manual analysis time by 30% and enabling real-time insights into pricing effectiveness
+- Customer Profitability Analysis: Analysed profitability by customer segment to inform differentiated pricing and discount strategies
+
+Finance Assistant | SMS LLP (Mtandt Group Company) | Chennai, India
+Feb 2022 – May 2023
+- Conducted pricing and discount analysis for products and services
+- Analysed promotional effectiveness and return on investment (ROI) for marketing campaigns
+- Supported pricing strategy development through cost-based, market-based, and competition-based approaches
+- Performed pricing elasticity analysis to understand customer response to price changes
+
+TECHNICAL SKILLS
+- Pricing & Discounts: Price Elasticity Analysis, Discount Optimization, Promotional Effectiveness Analysis, Customer Segmentation
+- Financial Modelling: Promotional ROI Models, Discount Impact Analysis, Bundle Pricing Analysis, Dynamic Pricing Models
+- Technical Tools: Advanced Excel (VBA, Solver, Data Tables for Elasticity), Python (statistical analysis, econometrics), SQL (Basic), PowerPoint, Bloomberg Terminal
+- Analytics: Statistical Analysis, Regression Analysis, Conjoint Analysis, Time Series Analysis
+- Pricing Strategies: Value-Based Pricing, Competitive Pricing, Penetration Pricing, Price Skimming
+- Soft Skills: Analytical Thinking, Commercial Acumen, Data-Driven Decision Making, Stakeholder Management
+
+KEY ACHIEVEMENTS
+- Improved pricing effectiveness by 12-18% through data-driven discount optimization and promotional effectiveness analysis
+- Identified £1.5M in additional annual profit through optimal discount structuring and promotional campaign optimization
+- Reduced manual pricing and discounts analysis time by 30% through VBA automation and dashboard development
+- Developed promotional ROI framework adopted across multiple client engagements
+- Conducted price elasticity analysis for 20+ product/service categories to inform pricing strategy
+- Supported pricing and discount decisions for contracts with total value exceeding £75M

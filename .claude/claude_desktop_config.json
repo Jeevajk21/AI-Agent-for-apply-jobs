@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "linkedin": {
+      "command": "uv",
+      "args": [
+        "run",
+        "python",
+        "-m",
+        "linkedin_mcp_server"
+      ]
+    }
+  }
+}

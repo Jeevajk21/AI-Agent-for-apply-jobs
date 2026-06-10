@@ -1,0 +1,59 @@
+JEEVAKUMAR JAYACHANDRAN
+MSc Finance Candidate | Investment Analysis Specialist
+Lancaster, UK | jeevajk2112@gmail.com | +44 7466 480480 | https://www.linkedin.com/in/jeevakumar-j/
+
+PROFILE
+Analytical MSc Finance candidate at Lancaster University with 3+ years of financial analysis experience at Accenture and strong academic focus on investment management. Expertise in equity valuation, financial modelling, investment analysis, and capital markets research. Proven ability to conduct fundamental analysis, build valuation models, and provide investment recommendations based on rigorous financial analysis. Seeking to leverage investment analysis skills to support private equity secondaries fund management as an Investment Analyst.
+
+EDUCATION
+MSc Finance (1st Class Expected)
+Oct 2025 – Present
+Lancaster University Management School | Lancaster, UK
+Relevant Modules: Advanced Investment Management, Financial Modelling & Valuation, Python for Data Analysis, Financial Databases (Bloomberg Terminal)
+- Advanced Investment Management: Focus on portfolio theory, asset allocation, and performance measurement
+- Equity Valuation Project: Applied CAPM to 10 FTSE 350 companies; built FCFF DCF model for Unilever PLC with scenario analysis
+- Financial Databases: Extensive hands-on experience with Bloomberg Terminal for market data, company analysis, and screening
+
+CMA Intermediate
+April 2019 – Dec 2019
+Institute of Cost Accountants of India | Chennai, India
+
+Master of Commerce (M.Com) | 82%
+Jun 2019 – Apr 2021
+KCS College of Arts and Science | Chennai, India
+
+Bachelor of Commerce (B.Com) | 72%
+Jun 2016 – Apr 2019
+KCS College of Arts and Science | Chennai, India
+
+PROFESSIONAL EXPERIENCE
+Pricing Associate (Financial Analyst) | Accenture | Bengaluru, India
+Jun 2023 – Sep 2025
+- Financial Analysis: Conducted comprehensive financial analysis of large outsourcing contracts, including profitability assessment, risk evaluation, and performance monitoring
+- Valuation Skills: Applied financial modelling techniques to assess contract value and support investment-like decisions in commercial contexts
+- Scenario & Sensitivity Analysis: Performed multi-variable modelling to evaluate financial outcomes under different assumptions—skills directly transferable to investment valuation
+- Data Analysis: Analysed large financial datasets to identify trends, performance drivers, and investment-relevant insights
+- Reporting: Prepared detailed financial reports and presentations for senior stakeholders, mimicking investment research reports
+- Commercial Due Conduct: Conducted financial due diligence on potential acquisitions and partnerships, assessing financial health and value drivers
+
+Finance Assistant | SMS LLP (Mtandt Group Company) | Chennai, India
+Feb 2022 – May 2023
+- Performed financial statement analysis and ratio analysis to assess company performance
+- Conducted investment appraisal techniques (NPV, IRR, payback) for capital expenditure decisions
+- Produced monthly management accounts with performance analysis against budgets and forecasts
+- Supported investment decision-making processes through financial analysis and reporting
+
+TECHNICAL SKILLS
+- Investment Analysis: Equity Valuation (DCF, Comparables, Dividend Discount Model), Fixed Income Analysis, Portfolio Analysis
+- Financial Modelling: DCF Modelling, LBO Modeling (basic), Merger Models, Scenario & Sensitivity Analysis
+- Valuation Techniques: CAPM, WACC Calculation, Terminal Value Methods, Relative Valuation
+- Technical Tools: Bloomberg Terminal (market data, company analysis, screening), Advanced Excel (VBA, Solver), Python (financial analysis, data visualization), SQL (Basic), PowerPoint
+- Research: Financial Statement Analysis, Ratio Analysis, Trend Analysis, Industry Analysis
+- Soft Skills: Analytical Thinking, Investment Judgment, Report Writing, Presentation Skills
+
+KEY ACHIEVEMENTS
+- Built FCFF DCF model for Unilever PLC with comprehensive scenario and sensitivity analysis across WACC, terminal growth, and operating margin assumptions
+- Applied CAPM to 10 FTSE 350 companies to calculate beta and risk-adjusted expected returns, identifying undervalued and overvalued securities
+- Conducted financial analysis that supported deal approval for contracts worth £50M+ annually
+- Developed financial dashboards that improved decision-making speed by 30%
+- Performed investment appraisal analysis for capital projects with total value exceeding £5M
