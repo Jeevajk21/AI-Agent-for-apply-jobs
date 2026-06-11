@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(uvx linkedin-scraper-mcp:*)",
-      "mcp__linkedin__search_jobs"
+      "mcp__linkedin__search_jobs",
+      "WebSearch",
+      "Bash(python3:*)"
     ]
   }
 }
